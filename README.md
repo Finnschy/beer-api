@@ -1,5 +1,5 @@
 # Beer Api
-Have a look at it here: https://reactbeerapi.netlify.app/
+Have a look at it here: https://reactbeerapi.netlify.app/ \
 For this project I used a free to use Api: https://ih-beers-api2.herokuapp.com/beers
 
 # Getting Started with Create React App
